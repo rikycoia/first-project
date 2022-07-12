@@ -1,0 +1,33 @@
+
+ <div class="container">
+  <div *ngFor="let Post of Post" class="card" >
+    <div class="card-body">
+      <h5 class="card-title">{{ Post.title }}</h5>
+      <p class="card-text">{{Post.body}}</p>
+      <img [src]='Post.photoUrl' >
+      <a class="nav-link active" [routerLink]='["/posts",Post.parent,"child",Post.slug]' >Learn it!</a>
+    </div>
+  </div>
+ </div>
+
+
+
+<div class="container2" *ngIf="singlePost">
+
+  <h1 class="title">{{singlePost[0].title}}</h1>
+
+  <h2 class="title2">A little bit of history</h2>
+
+<div class="box1">
+  <p class="text">{{singlePost[0].body2}}</p>
+  <img class="img1" [src]='singlePost[0].photoUrl2'>
+</div>
+
+  <h2 class="title2">A small curiosity</h2>
+
+<div class="box2">
+  <img class="img1" [src]='singlePost[0].photoUrl3'>
+  <p class="text">{{singlePost[0].body3}}</p>
+</div>
+
+</div>
