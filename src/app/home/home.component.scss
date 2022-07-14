@@ -10,24 +10,27 @@
 }
 
 .title{
-  padding-top: 100px;
-  background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
+
+  text-align: center;
 }
 
 
 .firstcontainer h1{
-  color: rgb(0, 0, 0);
   text-align: center;
   font-size: 3.0rem;
-  opacity: 1;
   color: white;
 }
 
 .firstcontainer h2{
   padding-top: 30px;
   color: white;
-
 }
+
+#accordionFlushExample{
+  width: 50%;
+  padding-top: 20px;
+}
+
 .card{
   width: 18rem;
   background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
@@ -69,4 +72,9 @@ h3{
 }
 
 
-
+@media only screen and (max-width: 850px) {
+  .container {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}
