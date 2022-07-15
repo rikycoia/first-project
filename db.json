@@ -110,7 +110,7 @@
 
 
   {
-    "id": 9,
+    "id": 10,
     "body": "It is also called black gold, in ancient times it was used to produce medicines and to power lamps...",
     "body2": "Even in ancient times, petroleum was used to power lamps, produce bitumen and medicines, and also for war purposes. The first oil well, came into being in Pennsylvania in 1859, and from there oil became the resource that had the greatest economic, political and social importance in the 20th century. However, an important technological advancement was countered by a very strong environmental impact because of its polluting power.",
     "body3": "The oil industry lays its foundation in pharmaceuticals. The young entrepreneur Samuel Kier sold this natural remedy by advertising it with this slogan: 'Here is the balm that, springing from the secret forces of nature, gives man the flower of health and life. From the depths of the soil the magic liquid drips to soothe your sufferings and heal your ills.' Probably no one nowadays would buy medicine made from oil.",
@@ -122,7 +122,7 @@
     "parent": "fossil"
   },
   {
-    "id": 10,
+    "id": 11,
     "body": "Coal was the real star of the first industrial revolution, making possible the operation of the first steam engines...",
     "body2": "The era of coal, known and used as a fuel since the 1200s, began in the mid-1600s due to the simultaneous occurrence of various events. Mining, craft, and industrial activities until the 1600s used wood as the main source of energy and as a building material. It was the main raw material in the early 1800s when the Industrial Revolution took place. It served as a fuel for the production of heat and then steam that was used to start engines. It was used in addition as a heating fuel in homes during the winter.",
     "body3": "Between the 16th and 17th centuries, Europe was hit by the first real energy crisis, with the great discoveries and the expansion of military navies (4000 trees were needed to build a galleon) the demand for wood went up a great deal and heavy deforestation took place. This necessitated mining research to find coal deposits because up to that time coal was produced from fresh wood. Thus the coal mining industry was born.",
@@ -134,7 +134,7 @@
     "parent": "fossil"
   },
   {
-    "id": 11,
+    "id": 12,
     "body": "It was Alessandro Volta who collected the first gas sample from a swamp in 1776. But it was not until the early 1900s that the use of this gas became widespread...",
     "body2": "Natural gas is the last fossil energy source to be exploited by humans. In earlier centuries, natural gas was already known but, being a gaseous fuel, it was much easier to use solid or liquid fossil fuels, natural gas leaking from early oil wells was in fact burned or vented into the atmosphere. The intensive exploitation of natural gas for domestic use is to be attributed to William A. Hurt, who in 1821 had the first well drilled in Fredonia, New York state. The gas that escaped from it was piped through hollow logs to nearby houses, still for the sole purpose of lighting.",
     "body3": "In 1776 Alessandro Volta (1745-1827) collected gas, surfacing as gaseous bubbles from the muddy waters of Lake Maggiore. He named such gas 'flammable air native to the marshes.' Volta thus discovered methane, a colorless and odorless hydrocarbon. It is the main constituent of natural gas.",
@@ -148,7 +148,7 @@
   },
 
  {
-    "id": 12,
+    "id": 51,
     "body": "Probably the first metal used for the manufacture of ornaments, jewelry and ritual objects. Mentioned as early as the Egyptians...",
     "body2": "Gold is a malleable, ductile metal and is therefore easy to work, though difficult to mine. It has been used for millennia (The oldest mine in the world is located in Sakdrisi, Georgia; it has been exploited since the sixth millennium BC. ) and it is still one of the most valuable minerals; in fact, each state has its own gold reserve hidden in bank vaults.",
     "body3": "Precisely in light of its enormous value, during the period of the Industrial Revolution there were many people, especially from the farming world, who moved to certain areas of the world where large quantities of this element were found. One of the absolute most famous areas in this regard is the Klondike in Alaska.",
@@ -160,7 +160,7 @@
     "parent": "metals"
   },
   {
-    "id": 13,
+    "id": 52,
     "body": "Mankind has been using copper for about 11,000 years. it was a material in great demand by monarchs, generals...",
     "body2": "Copper is perhaps the metal that has been used the longest; copper objects dating back to 8700 B.C. have been found in the Middle East. Native copper was mined into nuggets and hot-hammered to make objects made precious with a color resembling gold. Today it also has very different uses; it is widely used in telecommunications, construction, transportation and energy, and electronics.",
     "body3": "Copper was the protagonist of two major financial speculations, one in 1887 organized by Eugène Secrétan and the other in 1907 by Otto Heinze. Both failed in their intent to create a speculative bubble by raising the price of copper enormously and brought the same consequences such as the failure of many banks and and large companies. Despite this the advancement of technology led to an ever-increasing demand for this conducting element.",
@@ -172,7 +172,7 @@
     "parent": "metals"
   },
   {
-    "id": 14,
+    "id": 53,
     "body": "Apparently, the first people ever to make systematic use of steel by handing down the method for its manufacture were the Hindus, even in Roman times...",
     "body2": "The earliest known type of steel was manufactured in India from at least 300 AD. Throughout history, steel has always been used in very versatile ways. This material has been indispensable for technological innovation all over the world. Indeed, without its availability and low cost, the industrial revolution would not have been possible. As time went on, steel production techniques were perfected.",
     "body3": "Among the many uses of steel was as a gift as a sign of submission. In 326 B.C. Macedonian phalanxes defeated the defending army in the Punjab (bordering Pakistan) and Their king, Poro gave Alexander the Great 30 kilograms of steel, which at the time was highly prized by blacksmiths, soldiers and hunters for its characteristics and quality.",
@@ -185,7 +185,7 @@
 
   },
   {
-    "id": 15,
+    "id": 54,
     "body": "British Cornwall and the northern Iberian Peninsula are the main production centers for Western European...",
     "body2": "Tin was one of the first metals to be discovered, and from ancient times it was intensively used for its effect as an alloying agent for copper, whose hardness and mechanical qualities it greatly increased, forming the alloy known as bronze, in use until 3500 B.C. Tin mining presumably began in Cornwall and Dartmoor , thanks to it these regions developed a dense trade with the civilized areas of the Mediterranean Sea. Pure tin was not used in metallurgy until 600 BC.",
     "body3": "Discovered and used since ancient times, tin was often confused with another well-known metal, lead. In fact, the great Latin naturalist Pliny the Elder called stannum (hence the Italian tin) an alloy of silver and lead, while the actual tin was called white lead, because it was believed to be a variety of this metal.",
@@ -200,7 +200,7 @@
 
 
   {
-    "id": 25,
+    "id": 55,
     "body": "Obsidian was used to make clean cuts in household and craft activities, to make surgical instruments...",
     "body2": "Obsidian is named after Obsidius, a Roman explorer who found some black stones in Ethiopia that he called 'lapis obsidianus.' Obsidian can be found in places that have experienced rhyolitic (high-silica) volcanic eruptions, such as Lipari and Pantelleria in Italy, or Crete in the Mediterranean. It was first used about 700,000 years ago, while the remains of precise and expert workmanship date back to the fifth millennium BC",
     "body3": "In the Mesoamerican world Oxidiaza plays a key role until the arrival of the Conquistadores because this volcanic stone replaced metals that were not yet able to be worked, such as iron, because blacksmiths had not yet been able to obtain a temperature of 1538 degrees necessary to melt it, and thus work it.",
@@ -213,7 +213,7 @@
 
   },
   {
-    "id": 25,
+    "id": 56,
     "body": "In 1637 Pierre d'Avity wrote that silver became the world's first integrated and widespread market 'in the four corners of the world' and...",
     "body2": "For millennia, silver has been used as ornamentation and as a material for utensils, such as in the period of the Incas in ancient Peru, as a trade commodity, and as the basis for many monetary systems. It has long been considered the second most valuable metal, after gold.",
     "body3": "The Romans were great fans of silver, after them a long period of decline until the Renaissance when silver returned to everyday life with plates and cutlery, pitchers, ornaments and candlesticks. Not surprisingly, this is the period that saw the birth of the first guilds of arts and crafts. Punching was applied in Byzantium as early as the 7th century, but in Europe it first appeared in France only in the 13th century. Many famous artists began their apprenticeships as silversmiths, thus Brunelleschi and Benvenuto Cellini: famous to this day is his saltcellar created for Francis I.",
@@ -226,7 +226,7 @@
 
   },
   {
-    "id": 25,
+    "id": 57,
     "body": "In the early 18th century, there are questions about the strange metal found in silver mines by Spanish conquistadores...",
     "body2": "The discovery of platinum is attributed to astronomer Antonio de Ulloa and Don Jorge Juan y Santacilia, who were commissioned by King Philip V of Spain to join an expedition to Peru that lasted from 1735 to 1745. Ulloa observed the pinto platina, a nonworkable metal found along with GOLD in Nueva Granada, present-day Colombia. British privateers intercepted Ulloa's ship while returning to Europe. Although he was treated well in England, where he also became a member of the Royal Society, he was prevented from publishing news about the unknown metal until 1748.",
     "body3": "The first European to mention platinum was Julius Caesar Scaliger, who in 1557 described it as a mysterious metal discovered in Panama and Mexico that could not be melted by known methods. Some alchemists assign it the sun and moon symbols, the former to represent gold and the latter silver. The first to describe the method for melting this metal was Lavoisier in 1782, when it had already been used by goldsmiths for years, however.",
@@ -241,7 +241,7 @@
 
 
  {
-    "id": 16,
+    "id": 101,
     "body": "The opening of waterways between Lisbon and India disrupts the market for spices and products that come from the Indian basin...",
     "body2": "The history of pepper has its origins in India 4,000 years ago, particularly in the tropical region of Kerala, where the ancient Egyptians, Babylonians, and Assyrians were already traveling to purchase and import Indian spices, especially black pepper, into their territories. Later, the pepper trade greatly interested the Greek and Roman peoples, and for the latter in particular, pepper became a veritable status symbol of the aristocratic class and a commodity of great luxury.",
     "body3": "Opening of waterways between Lisbon and India disrupts spice market. The first Portuguese ship loaded with spices landed in Bruges in 1500 and the impact proved disastrous for the Venetian economy, so much so that some banks were forced to declare bankruptcy or borrow. In fact, in 1502 5 ships of the Venetian fleet returned half-empty from Alexandria and Beirut: carrying with them only 4 bales of pepper. This situation resulted in a naval war between Portugal and Venice.",
@@ -254,7 +254,7 @@
 
   },
   {
-    "id": 16,
+    "id": 102,
     "body": "The demand for salt fuels a thriving trade on all continents. Omero calls it a divine substance, Plato declares that the gods love it...",
     "body2": "Neolithic (10,000 years ago) saw the birth of the first civilizations whose diet was based on agriculture and animal husbandry. As a result, the need to have to keep foodstuffs unaltered began to grow. The use of salt for this operation was already in use, but after switching to a low-sodium diet (grains and vegetables) and becoming stable peoples, they began to perfect the technique of salting as a preservation technique (only in later eras was it used to change the taste of food). Thereafter, the importance that salt assumed grew exponentially.",
     "body3": "Salt has had many functions throughout history: In the Netherlands, one of the capital punishments was to feed the condemned person only unsalted food, the Romans used it as toothpaste, and in Europe, after the introduction of coffee and tobacco, people tried to remove nicotine stains and yellow color from their teeth with saline-based aqueous solutions. Also in Europe, women rubbed their lovers with saline solutions to increase their vigor.",
@@ -267,7 +267,7 @@
 
   },
   {
-    "id": 16,
+    "id": 103,
     "body": "Sugar cane, probably originating in South Asia, was cultivated in India over 4,000 years ago...",
     "body2": "Cane sugar has been known and used for centuries. It was initially used in liquid form, as a syrup obtained by boiling the plant, but in 500 B.C. true crystal production began. With boiling, in fact, the moisture evaporates and the crystal becomes concentrated. From India and China, it then landed in the Middle East and was even described there by Alexander the Great: crystals were honey to him without the bees to produce it. In the Middle Ages Arab merchants brought cane sugar to Europe, but the turning point was thanks to Christopher Columbus, who brought sugarcane to the New World.",
     "body3": "Sugarcane cultivation was concentrated in China thanks to missions of agronomic engineers sent by the Tang Dynasty (618 to 907 A.D.), in India and up in Persia, where refining techniques were greatly improved. Indeed, sugar cakes are produced for transportation and trade that will increase with Muslim expansion: Palestine, Syria and Egypt become important centers with the use of large mills and refineries.",
@@ -280,7 +280,7 @@
 
   },
   {
-    "id": 16,
+    "id": 104,
     "body": "Nuts are already found in the tombs of Egyptian pharaohs, and the Indian Basin and Southeast Asia are also familiar with this spice... ",
     "body2": "Nutmeg is the seed of 'Myristica fragrans', an evergreen tree native to Indonesia that is now widespread in various intertropical areas. Already known to medieval Arab merchants, this spice did not become established in Europe until the early 16th century. Its use, both in cooking and perfumery, became so widespread in aristocratic circles that trading it represented an occasion for hostility and intrigue among European states for more than two hundred years. There was a period, in the late seventeenth and early eighteenth centuries, when the civilized world was seized by a passion for nutmeg.",
     "body3": "In 1602, the very powerful Dutch East India Company was founded, which in 1667 succeeded in gaining a monopoly on nutmeg in the Moluccan Islands by driving out the occupying Spanish and Portuguese and severely affecting the native population. To consolidate their rule, the Dutch signed a treaty with the village chiefs of those remote islands, establishing exclusivity of trade in favor of the Dutch East India Company. The Banda Islands archipelago was also invaded by a conquering fleet that initiated a series of massacres against the natives.",
@@ -295,7 +295,7 @@
 
 
   {
-    "id": 17,
+    "id": 151,
     "body": "In 445 b.C. Herodotus writes that in India there are wild plants whose fruit produces a wool more beautiful than that of sheep, which the Indians use...",
     "body2": "The history of cotton is as old as the birth of civilization. Its discovery can be traced back at least 7,000 years, when the first evidence was found in Peru. In fact, it is thought that the fiber, made from the seeds of Gossypium plants, was already being used by the Aztecs. It was around 800 AD that cotton was imported to Europe, and following the Industrial Revolution, and thus with the birth of the first machines, cotton spread throughout the Western Hemisphere, thanks to trade between the United Kingdom and the American colonies.",
     "body3": "Beginning in the 17th century, thanks to the activities of the East India Company, the demand for Indian textiles increased because of their fineness and variety of colors. Cargoes arrive in Marseille and Genoa, hurting French weavers. In 1686 Louis XIV signs the act prohibiting the import of Indian textiles and orders their stock to be burned in the warehouse. A total of two edicts and 80 Council of State rulings were drafted to prohibit the trade, but it gave rise to smuggling and counterfeiting.",
@@ -308,7 +308,7 @@
   },
 
   {
-    "id": 17,
+    "id": 152,
     "body": "In A.D. 48 in China, counterfeiting of coins was so widespread that Emperor Guang Wudi decided to accept silk as a means of payment...",
     "body2": "Silk was originally processed in China, probably as early as 6,000 BC, although there are authoritative studies that date it back to 3,000 BC. Legend has it that the birth of sericulture was due to Empress Xi Ling Shi who discovered the qualities of the cocoon. The empress was walking when she noticed a caterpillar, brushing it with her fingers sprouted a silk thread that she wrapped in her finger, forming a small cocoon. The silk was then gradually used and processed throughout China.",
     "body3": "By A.D. 48 in China, counterfeiting of coins was so widespread that Emperor Guang Wudi of the Han Dynasty decided to accept various materials, including silk, as a means of payment. Still 24 years later it is recognized as official payment, but the practice is abandoned until 402 AD when it is revived mainly because of the period of high inflation and instability.These are undyed pieces of cloth of standard size rolled up and easy to carry.",
@@ -321,7 +321,7 @@
   },
 
   {
-    "id": 17,
+    "id": 153,
     "body": "According to historians, the English wool industry was developed by the Romans during the invasion of the British Isles in the early Christian era...",
     "body2": "Already in Ancient Greece the importance of wool was predominant, since the Iron Age the most widespread textile material. The Roman era is credited with the introduction of shears to remove wool from animals, without the barbaric ancient techniques of tearing it directly from the animal's body, while it is with the Middle Ages that wool sees its most flourishing period of diffusion. Through the centuries wool established itself as a commodity throughout Europe, starring England but also Italy, it soon became a textile material of large-scale industrial production in the 13th century. ",
     "body3": "The English wool industry was developed by the Romans during their invasion of the British Isles in the early Christian era. The Romans even went so far as to teach British farmers the technique of covering sheep to protect the wool from dirt. At the time sheep came mainly from Spain, the Romans invaded southern Britain specifically to secure supplies of wool, which merchants could exchange for silver, salt, amber, coral, and metals.",
@@ -334,7 +334,7 @@
   },
 
   {
-    "id": 18,
+    "id": 201,
     "body": "Wheat is one of the first plants domesticated by humans, and its spread for food use triggered major cultural changes around the world...",
     "body2": "Wheat is a food that brings back to the process of man's civilization: for so many people of the earth, it is like an almost genetic element, inherent in the essence of man. Wheat has been of fundamental importance in man's development, it has had significant cultural and economic value. The cultivation of wheat originated about ten thousand years ago, when man went from being a wandering hunter to a settled one, with the need to obtain food constantly; wheat developed naturally in an area known as 'the fertile crescent' located geographically in what is now the Middle East. ",
     "body3": "In 123 B.C. Tribune Gaius Sempronius Gracchus passed a law requiring the Roman state to provide grain to citizens at a fixed price. By doing so, each family could afford the amount of wheat needed to produce 45 kilograms of bread per month. This legislative measure is greatly appreciated by the people but not by Cicero, who opposes it, arguing that it drives the poorest into inactivity and also represents a high cost to the state's finances.",
@@ -348,7 +348,7 @@
   },
 
   {
-    "id": 18,
+    "id": 202,
     "body": "As early as 1946, scholar Nicola Scillacio mentions it in his botany courses at the University of Pavia...",
     "body2": "Corn was first brought to Europe by Christopher Columbus in 1493, and in the first decades of the 16th century it spread from the Iberian Peninsula to southern France, northern Italy and the Balkans. Initially it did not replace other grains, but was grown mainly in vegetable gardens or as fodder. For a long time its role in agriculture and food remained secondary. Farmers grew corn in kitchen gardens because these were usually exempt from royalties and tithes and their produce could be directly used by the farmer's family.",
     "body3": "Often used to feed animals, corn has often been associated with poverty, frequent famines in Europe until the 20th century forcing farmers into a corn diet that served only to fill their bellies. Polenta in northern Italy, millasse in southern France are examples. Incorrect processing of corn by Europeans is the cause of the spread of a disease: pellagra, which was not discovered until after World War I.",
@@ -361,7 +361,7 @@
 
   },
   {
-    "id": 18,
+    "id": 203,
     "body": "Asian rice is native to a wide region from eastern India to southern China, where the first species grew as early as the Holocene...",
     "body2": "The cradle of rice civilizations is Asia. From the Far East, rice does not undertake its westward spread until millennia later, landing in Mesopotamia, where it is cultivated in the 4th century B.C.E., and arriving in Europe as a foodstuff with Alexander the Great. Even before the Greeks, it is the king of Persia who, in the late 6th century B.C., orders explorations in Asia by Scylla, the first among the Greeks to make a journey down the Indus River, who reports how the grain takes root in the territories of present-day Pakistan. ",
     "body3": "In 1482 Leonardo da Vinci was commissioned by Ludovico il Moro to design canals to enable the cultivation of rice, which is concentrated in the Lomellina area, southwest of Milan. Da Vinci focused on irrigating the marcite, irrigated land that allowed up to four harvests a year intended for cattle breeding, bringing gains on milk and cheese production in addition to rice.",
@@ -375,7 +375,7 @@
   },
 
   {
-    "id": 19,
+    "id": 251,
     "body": "Before the arrival of Europeans, the Aztecs and Mayans possessed a particular monetary system, barter, that is, the exchange of goods, including cocoa beans...",
     "body2": "It was the people of Central America who discovered 1500 years before the birth of Christ the cocoa trees, even if at the beginning its fruits were harvested only to consume the raw pulp. We will have to wait for the Mayan civilization to find the first clues to the consumption of real cocoa. Christopher Columbus is the first European to try cocoa in 1502 when during his fourth trip to the Americas he touches the island of Gunaja, off the coast of Honduras. From the forests of Central America, cocoa arrived in Europe around the middle of the sixteenth century.",
     "body3": "The Aztecs and the Maya had a particular monetary system, barter. One of the most valuable trade goods was cocoa beans, stored in bags of 24000 units, the maximum weight a man can carry. There is an important documentation on the will of cocoa: in 1545 at the Texcala market an egg cost two seeds, a rabbit 10, a prostitute over 100.",
@@ -388,7 +388,7 @@
   },
 
   {
-    "id": 19,
+    "id": 252,
     "body": "Cultivated vines originated between the Black Sea and the Persian Gulf 6000 years ago and transited to Egypt...",
     "body2": "It is said that the vine first appears over 200 million years ago in various parts of the planet. The oldest fossils of the genus 'Ampelide' have in fact been found in the Caucasus and have a dating compatible with this theory. In any case, various fossils testify the presence of the vine in the European areas where it is currently cultivated for at least one million years. About 5,000 years ago, in the era known as Neolithic man becomes sedentary and begins to work the soil and select the various species suitable for cultivation, including the Vitis Vinifera Silvestris.",
     "body3": "With the collapse of the Roman Empire many French vines were abandoned, but wine remained a beverage destined for religious. Around the castles is cultivated the vineyard, this thanks to the climate warming that between the end of the ninth century and the beginning of the twelfth century will allow to plant vines in England, Normandy, northern Germany, Flanders and the Baltic States. Abbeys became the main producers of wine.",
@@ -401,7 +401,7 @@
   },
 
   {
-    "id": 19,
+    "id": 253,
     "body": "Christopher Columbus is the first European to notice that the inhabitants of the discovered regions smoke a strange herb and brings with him a sample...",
     "body2": "The first documented information is found in a paper by Bartolomeo de las Casas entitled General History of the Indies ('The Indians mix the breath with a grass called pentum - or tabago - and blow like damned') But it was with the discovery of America that the history of tobacco officially began. Rodrigo de Jeréz, a companion of Christopher Columbus, could be called the first European to learn to smoke. In the second expedition of Columbus, a friar named Romano Pace remained in Haiti and here he began to observe and describe the Indians who smoked the tobacco plant. And it turns out he’s the one who brought the plant to Europe.",
     "body3": "Tobacco immediately entered the European Pharmacopoeia, in 1597, the English pharmacist John Gerard, writes that it can be used to treat ulcers, tumors, abscesses and to reduce general pain. The habit of chewing or smoking tobacco spreads and all those who live in the Americas or in Europe consume it, from the military to the religious, from sailors to state officials. Each Member State begins to tax consumption ",
@@ -414,7 +414,7 @@
   },
 
   {
-    "id": 19,
+    "id": 254,
     "body": "For a long time, the most popular method of transporting tea in China was to make compressed blocks of it, which were also used as currency...",
     "body2": "According to Chinese legend, it is in 2737 BC that Emperor Shen Nung, an expert in botany, discovered tea by chance, while sitting under a plant, he was drinking boiling water and a leaf of that plant fell into the cup. The emperor would have tasted the infusion and so appreciated its taste, finding it extremely invigorating and refreshing, to immediately order its cultivation throughout China. ",
     "body3": "During the Tang Dynasty in China the so-called Tea Tribute was instituted, a quantity of tea planted and harvested was to be destined for the Emperor and his personal use. For this, the collection was known as the Imperial Collection and had to follow strict dictates, all precisely coded. The pickers, young women at work, had to wear gloves and could not eat anything like onions or garlic, which with their strong and intense smell could contaminate the precious tea leaves.",
@@ -428,7 +428,7 @@
 
 
   {
-    "id": 20,
+    "id": 301,
     "body": "Opium has a long history. An aphrodisiac and medicinal product consumed by politicians and literary...",
     "body2": "Although opium had been known since ancient times, its use spread mainly during the Renaissance, following the intensification of trade contacts between Europe and the East. The so-called sleeping poppy was in fact cultivated in some territories of the Ottoman Empire, as well as in Persia and the Far East area. Medical prescriptions that included opium multiplied from the 16th century onward; it was then that the famous Swiss physician and alchemist Paracelsus first obtained laudanum, a hydroalcoholic solution of opium, whose virtues were indicated in sleeping disorders and in cases of pain.",
     "body3": "In China, the vice of smoking tobacco was so widespread that the last Ming emperor, in the mid-17th century, banned its use. It was then that the Chinese began smoking opium. The English physician Thomas Clifford Allbutt (1836-1925) wrote on the subject, 'The smoking of opium, in Europe or elsewhere, is not so much condemned on account of the more or less serious damage it does to health, as on account of the degrading circumstances associated with its consumption.' Such ideas were projected onto the opium dens that began to proliferate in Europe and America from the mid-19th century, following Chinese immigration.",
@@ -441,7 +441,7 @@
   },
 
   {
-    "id": 20,
+    "id": 302,
     "body": "Evidence of cannabis use has been around since Neolithic times, evidenced by the discovery of some fossilized seeds in a cave in Romania. The oldest human artifact found is a piece of hemp cloth dating back to 8000 BCE...",
     "body2": "The history of cannabis has ancient roots. According to several studies, in fact, its cultivation dates back more than 10 thousand years, as evidenced by the discovery of some fossilized seeds discovered in a cave in Romania. According to scholars, the plant's origin dates back to the earliest agricultural human societies in Central Asia, a place where it grew wild and from which it probably spread, first to China, then to Africa, Europe and America. The first use of cannabis in medicine would date back to the Chinese emperor Shen Nung, in 2737 BC",
     "body3": "Henry Ford was deeply convinced that the car of the future had to be built and powered by biodegradable elements. His engineers thus worked on a car made entirely of natural fibers drawn from flax, Hemp and straw and fueled entirely by Hemp ethanol. The prototype of such an automobile saw the light of day in 1937 but never went into production because before long, Hemp would become illegal.",
@@ -454,7 +454,7 @@
   },
 
   {
-    "id": 21,
+    "id": 351,
     "body": "Each piece of jade is different, and quality strongly influences its value. Jade was often sold for the price of gold...",
     "body2": "Jade has always been used as an ornamental stone, with the oldest objects made from jade dating back some 7,000 years. Its hardness also made it a widely used stone for weaponry, and evidence of this is the so-called pre-Columbian ritual knives. And if in Central America the tradition of jade carving came to a halt because of the arrival of the conquistadors, in other parts of the world this custom is more alive than ever: just think of China to the countries of the East where, however, this stone is used mainly for making cult objects.",
     "body3": "For the Chinese, jade has, since ancient times, been a symbol of nobility, perfection, constancy and immortality. For millennia, jade has been part of the lives of Chinese of all categories and classes, so much so that it is considered the most spiritual of all precious stones. Divine images were often depicted in jade carvings, moreover, both objects and jewelry with this gemstone became an integral part of religious and worship ceremonies. To this day, many Chinese believe that certain gemstones, such as jade, serve to ward off evil spirits.",
@@ -466,7 +466,7 @@
     "parent":"stones"
   },
   {
-    "id": 22,
+    "id": 352,
     "body": "Beginning in the Neolithic period, the people of the Cyclades began to produce small statues from marble, a material...",
     "body2": "The history of marble begins thousands of years ago, when the ancient civilizations of Egypt and Mesopotamia found it the ideal stone to support imposing public buildings and form the columns of religious temples. From the Pantheon in Rome to the Parthenon in Athens, the most important buildings in human history were built of marble. White marble was considered the finest, because it was homogeneous and free of impurities, and was quarried mainly in the Luni quarries in Carrara, a center of the marble trade since the time of the Roman Empire.",
     "body3": "Between the fall of the Roman Empire and the 15th century, the marble quarries were abandoned. It was not until the late medieval period that marble began to be used again, especially for the construction of churches and buildings in wealthier cities. But it was the Italian Renaissance that brought its use back to life with artists, such as Michelangelo, who was commissioned to sculpt 'La pietà' for St. Peter's Basilica. It will take him nine months to find the right block of marble.",
@@ -478,7 +478,7 @@
     "parent":"stones"
   },
   {
-    "id": 23,
+    "id": 353,
     "body": "The Boian civilization (between Romania and Bulgaria 4300-3500 B.C.) decorated their vessels with graphite: this is the first historical evidence... ",
     "body2": "The Boian civilization (between Romani a and Bulgaria. 4300-3500 B.C.) already decorated their vessels with graphite: this is the first historical evidence of the use of this mineral. Extracted from small local mines at a shallow depth, it is a product consisting of almost pure coal, which has few applications. In fact, for a long time it was not sought after and was used only for branding sheep. It was mistakenly thought to contain lead, which is why it was called 'plumbago'.",
     "body3": "Today graphite is used in many fields. It is used to make drawing pencils, but this is only one of the many uses of this mineral. We find it, for example, inside the cooling systems of nuclear power plants, and it is an important element in the processing of refractory ceramics. It is also used as an anti-rust substance in electricity, and even as an ingredient in the making of lubricants. We are most interested, however, in the use of graphite in the creation of drawing pencils.",
@@ -490,7 +490,7 @@
     "parent":"stones"
   },
   {
-    "id": 24,
+    "id": 354,
     "body": "It is already mentioned by Plinio Naturalis Historia as an essential element in glassmaking, discovered by chance by Phoenician sailors...",
     "body2": "Saltpeter was known from the earliest antiquity, and was used by the Chinese and the Greeks in pyrotechnic mixtures because of its power to deflagrate with coal; but no indications of it can be found in the surviving writings prior to the alchemical period. It is mentioned, even for the preparation of nitric acid, by the author of the works attributed to Geber, who calls it sal petrae or sal petrosum; Ramon Llull called it sal nitri, but distinguished it from nitrum, the name by which ancient writers denoted the fixed alkali; in the 16th century the word, used in the latter sense, changed to natron, and the designation nitrum remained to potassic nitrate.",
     "body3": "During the French Revolution the enormous need for saltpeter often led to a veritable hunt for saltpeter with requisitioning, sometimes muscular, among individuals who were thus dispossessed of the saltpeter-saturated soil recovered at the bottom of their walls. These veritable commandos were equipped to carry out on-the-spot leaching and concentration of the saltpeter, which was then urgently sent to powder factories. Many church precincts would be mobilized for the production of saltpeter (e.g., in the church of Saint-Merri in Paris); the manufacture of saltpeter caused damage to forests and walls due to lack of certain precautions; the revolutionaries recovered the saltpeter by destroying these churches.",

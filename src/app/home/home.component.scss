@@ -22,6 +22,7 @@
   font-size: 4vw;
   color: white;
   position: absolute;
+  color: rgb(204, 204, 204);
 
 }
 
@@ -59,18 +60,18 @@ img{
 
 h3{
   text-align: center;
-
-
 }
 
 .accordion {
   margin: 0 auto;
   width: 800px;
-  color: green;
-  border: solid 1px green;
-
+  color: rgb(204, 204, 204);
 }
 
+.accordion-button{
+  background-color: #313130;
+  color: rgb(204, 204, 204);
+}
 
 @media only screen and (max-width: 850px) {
   .container {
