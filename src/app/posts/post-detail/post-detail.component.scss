@@ -26,8 +26,12 @@ img{
 
 //single posts
 .container2{
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 85%;
 
 }
 
@@ -36,11 +40,15 @@ img{
   justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
+  text-align: center;
   padding-bottom: 30px;
-  border: solid 1px black;
-  background-color: aliceblue;
-  background-color: black;
-  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 80%;
+  padding-bottom: 30px;
+  border: solid 1px rgb(255, 255, 255);
+  background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
+  color:white;
 
 }
 
@@ -49,33 +57,82 @@ img{
   justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
-  border: solid 1px black;
-  background-color: aliceblue;
-  background-color: black;
-  color: white;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 80%;
+  border: solid 1px rgb(255, 255, 255);
+  background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
+  color:white;
 }
 
 
 .text{
-  width: 50%;
+
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 50px;
   padding-bottom: 50px;
+
 }
 
 .img1{
   width: 50%;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+margin: 0 auto;
 
 }
 
 .title{
   text-align: center;
   padding-bottom: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 80%;
+  background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
+  color:white;
+  border: solid 1px rgb(255, 255, 255);
 }
 
 .title2{
   text-align: center;
   padding-bottom: 30px;
   padding-top: 30px;;
+  text-align: center;
+  padding-bottom: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 80%;
+  background-image: radial-gradient(circle, #000000, #161515, #242322, #313130, #3f413f);
+  color:white;
+}
+
+
+
+@media only screen and (max-width: 950px) {
+  .container {
+    margin: 0 auto;
+    flex-direction: column;
+  }
+}
+
+
+
+@media only screen and (max-width: 1150px) {
+  .box1 {
+    margin: 0 auto;
+    flex-direction: column;
+    text-align: center;
+
+  }
+
+  .box2 {
+    margin: 0 auto;
+    flex-direction: column;
+    text-align: center;
+  }
+
 }

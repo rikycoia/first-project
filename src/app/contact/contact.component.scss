@@ -2,6 +2,16 @@
   display: flex;
   flex-direction: column;
   padding-bottom: 15px;
+  padding-top: 15px;
+  background-image: radial-gradient(
+    circle,
+    #000000,
+    #161515,
+    #242322,
+    #313130,
+    #3f413f
+  );
+  width: 70%;
 }
 
 .intro {
@@ -10,27 +20,14 @@
   margin: 0 auto;
   text-align: center;
   padding-top: 30px;
-  background-image: radial-gradient(
-    circle,
-    #000000,
-    #161515,
-    #242322,
-    #313130,
-    #3f413f
-  );
+
   color: white;
-  width: 80%;
+  width: 70%;
+  padding-bottom: 15px;
 }
 
 .if{
-  background-image: radial-gradient(
-    circle,
-    #000000,
-    #161515,
-    #242322,
-    #313130,
-    #3f413f
-  );
+
   color: white;
   width: 50%;
   height: auto;
@@ -49,20 +46,15 @@
   justify-content: space-between;
   margin-left: 150px;
   margin-right: 150px;
-  background-image: radial-gradient(
-    circle,
-    #000000,
-    #161515,
-    #242322,
-    #313130,
-    #3f413f
-  );
+  text-align: center;
   color: white;
   width: 80%;
 }
 
 img {
   padding-right: 30px;
+  width: 70%;
+  height: auto;
 }
 
 .form-group {
@@ -71,5 +63,18 @@ img {
   width: 50%;
   margin: 0 auto;
   padding-top: 50px;
+  color: white;
+}
+
+
+@media only screen and (max-width: 950px) {
+  .jung {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+    width: 90%;
+  }
 
 }
